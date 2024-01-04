@@ -6,10 +6,7 @@ const Resume = {
       FatherName: "Kalimuthu",
       MotherName: "Maheswari",
       Occupation: "Agriculture",
-      Address: " Jeeva st 4th sakthi nadar meenakari road pollachi"
-    },
-
-    Contact:{
+      Address: " Jeeva st 4th sakthi nadar meenakari road pollachi",
       Phone: "+91 6369327027",
       email: "loges93321@gmail.com"
     
